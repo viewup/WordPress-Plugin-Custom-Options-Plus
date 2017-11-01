@@ -1,11 +1,10 @@
 <?php
 /*
-Plugin Name: Custom Options Plus
-Plugin URI: https://github.com/leocaseiro/Wordpress-Plugin-Custom-Options-Plus
-Description: The easiest way to add your custom variables as a Settings Page for your Theme. Even with no expertise in PHP.
-You can for example, register the address and phone numbers of your company to leave in the header of your site. So, if someday relocate, you do not need to change your theme. Just change administratively.
-You can also enter the login of your social networks. How to login twitter, Facebook, Youtube, contact email and more.
+Plugin Name: Custom Options Plus (Viewup)
+Plugin URI: https://github.com/viewup/WordPress-Plugin-Custom-Options-Plus
+Description: Custom Version of Custom Options Plus (https://github.com/leocaseiro/Wordpress-Plugin-Custom-Options-Plus)
 Version: 1.8.1
+Text Domain: cop
 Author: Leo Caseiro
 Author URI: http://leocaseiro.com.br/
 */
